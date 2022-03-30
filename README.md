@@ -7,7 +7,7 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
 
 📝NOTE: Look at the dates!
 - [AVL Array](https://github.com/DontEatRice/AVL-Array/)
-  - Based on AVL Tree
+  - Based on AVL Tree ([more about AVL Trees](https://www.programiz.com/dsa/avl-tree))
   - Basic operations like search, add, delete have better complexity (logN) then standad lists or arrays
   - Biggest problem during implementation: moving and managing indexes, here the element's index is his position in the tree where 0 is the first element returned by inOrder walk-through algorithm
 - [Spotify albums/singles/artists images downloader](https://github.com/DontEatRice/Cover_image_dowload_Spotify)
