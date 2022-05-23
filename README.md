@@ -1,11 +1,15 @@
 # <p align="center">👋 Hi, I’m @DontEatRice</p>
 - 👨‍🎓 I’m a computer science student in Warsaw, Poland
-- 🌱 I’m currently learning Spring (Java) and TypeScript
+- 🌱 I’m currently learning Spring (Java), .NET (C#) and TypeScript
 - 📫 You can reach me via email: *jakub.sikorski0211@gmail.com*
 ## 🖼 My projects
 They are not perfect, because I'm still learning a lot of new things, but I decided to keep them to keep track of my progress.
 
 📝NOTE: Look at the dates!
+- [Game of Life]([https://donteatrice.github.io/Game_of_Life/](https://github.com/DontEatRice/Game_of_Life))
+  - Popular algorithm implemented with infinite board.
+  - Written in Typescript.
+  - Hosted on Github Pages. [Check it out here](https://donteatrice.github.io/Game_of_Life/)
 - [AVL Array](https://github.com/DontEatRice/AVL-Array/)
   - Based on AVL Tree ([more about AVL Trees](https://www.programiz.com/dsa/avl-tree))
   - Basic operations like search, add, delete have better complexity (logN) then standad lists or arrays.
