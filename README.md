@@ -1,7 +1,5 @@
 # <p align="center">👋 Hi, I’m @DontEatRice</p>
 - 👨‍🎓 I’m a computer science student in Warsaw, Poland
-- 🌱 I’m currently learning Spring (Java), .NET (C#) and TypeScript
-- 📫 You can reach me via email: *jakub.sikorski0211@gmail.com*
 ## 🖼 My projects
 They are not perfect, because I'm still learning a lot of new things, but I decided to keep them to keep track of my progress.
 
