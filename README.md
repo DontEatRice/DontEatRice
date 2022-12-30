@@ -4,6 +4,14 @@
 They are not perfect, because I'm still learning a lot of new things, but I decided to keep them to keep track of my progress.
 
 📝NOTE: Look at the dates!
+- [Bookmarks](https://github.com/DontEatRice/bookmarks "Bookmarks")
+  - Back-end application to save bookmarks
+  - Stack
+    - Nest
+    - Typescript
+    - Prisma
+    - Docker
+    - JWT
 - [Store Power](https://github.com/DontEatRice/store-power "Store Power")
   - Simple application to manage product prices in different stores.
   - Authoriation is possible as store owner.
