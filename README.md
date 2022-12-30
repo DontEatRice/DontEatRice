@@ -26,9 +26,16 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
   - Search for album/single covers and artits pfp on Spotify and download them.
   - Spotify theme!
   - Stack
+    - Node.js
+    - Express
+    - Spotify API
+    - HTML & CSS
 - [Tracking number of players online in World Of Tanks](https://github.com/DontEatRice/Server-Stats-WOT)
-  - MongoDB
   - Storing and grouping data.
+  - Stack
+    - Node.js
+    - Express
+    - MongoDB
 <!---
 DontEatRice/DontEatRice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
