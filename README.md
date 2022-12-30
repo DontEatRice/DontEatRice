@@ -4,6 +4,15 @@
 They are not perfect, because I'm still learning a lot of new things, but I decided to keep them to keep track of my progress.
 
 📝NOTE: Look at the dates!
+- [Store Power](https://github.com/DontEatRice/store-power "Store Power")
+  - Simple application to manage product prices in different stores.
+  - Authoriation is possible as store owner.
+  - Front-end build using EJS template engine.
+  - Stack
+    - Node.js
+    - Express
+    - Docker
+    - Sequalize
 - [Game of Life](https://github.com/DontEatRice/Game_of_Life "Game_of_Life")
   - Popular algorithm implemented with infinite board.
   - Hosted on Github Pages. [Check it out here](https://donteatrice.github.io/Game_of_Life/ "Game of Life")
