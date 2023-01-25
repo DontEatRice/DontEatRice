@@ -12,6 +12,21 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
     - Prisma
     - Docker
     - JWT
+- [Spotify albums/singles/artists images downloader](https://github.com/DontEatRice/Cover_image_dowload_Spotify)
+  - Search for album/single covers and artits pfp on Spotify and download them.
+  - Spotify theme!
+  - [Demo](https://CoverimagedowloadSpotify.donteatrice.repl.co)
+  - Stack
+    - Node.js
+    - Express
+    - Spotify API
+    - HTML & CSS
+- [Tracking number of players online in World Of Tanks](https://github.com/DontEatRice/Server-Stats-WOT)
+  - Storing and grouping data.
+  - Stack
+    - Node.js
+    - Express
+    - MongoDB
 - [Store Power](https://github.com/DontEatRice/store-power "Store Power")
   - Simple application to manage product prices in different stores.
   - Authoriation is possible as store owner.
@@ -39,20 +54,6 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
   - Change colors using sliders.
   - Stack
     - Java Swing
-- [Spotify albums/singles/artists images downloader](https://github.com/DontEatRice/Cover_image_dowload_Spotify)
-  - Search for album/single covers and artits pfp on Spotify and download them.
-  - Spotify theme!
-  - Stack
-    - Node.js
-    - Express
-    - Spotify API
-    - HTML & CSS
-- [Tracking number of players online in World Of Tanks](https://github.com/DontEatRice/Server-Stats-WOT)
-  - Storing and grouping data.
-  - Stack
-    - Node.js
-    - Express
-    - MongoDB
 <!---
 DontEatRice/DontEatRice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
