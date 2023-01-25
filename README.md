@@ -23,6 +23,8 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
     - HTML & CSS
 - [Tracking number of players online in World Of Tanks](https://github.com/DontEatRice/Server-Stats-WOT)
   - Storing and grouping data.
+  - Interactive charts!
+  - [Demo](https://server-stats-wot.donteatrice.repl.co/eu)
   - Stack
     - Node.js
     - Express
