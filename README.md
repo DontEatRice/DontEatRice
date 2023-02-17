@@ -12,6 +12,12 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
     - Prisma
     - Docker
     - JWT
+- [APBD Project](https://github.com/DontEatRice/apbd-project "APBD Project")
+  - Application for exploring latest stock prices with ability to add them to your watchlist
+  - [Demo](https://blazorprojectserver20230217181058.azurewebsites.net/)
+  - Stack
+    - .NET
+    - Blazor
 - [Spotify albums/singles/artists images downloader](https://github.com/DontEatRice/Cover_image_dowload_Spotify)
   - Search for album/single covers and artits pfp on Spotify and download them.
   - Spotify theme!
