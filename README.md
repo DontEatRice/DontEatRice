@@ -7,8 +7,8 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
 - [Bookmarks](https://github.com/DontEatRice/bookmarks "Bookmarks")
   - Back-end application to save bookmarks
   - Stack
-    - Nest
-    - Typescript
+    - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png" height="19px"/> Nest 
+    - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" height="19px"/> Typescript
     - Prisma
     - Docker
     - JWT
@@ -16,7 +16,7 @@ They are not perfect, because I'm still learning a lot of new things, but I deci
   - Application for exploring latest stock prices with ability to add them to your watchlist
   - [Demo](https://blazorprojectserver20230217181058.azurewebsites.net/)
   - Stack
-    - .NET
+    - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_csharp_icon_130664.png" height="19px"/> .NET
     - Blazor
 - [Spotify albums/singles/artists images downloader](https://github.com/DontEatRice/Cover_image_dowload_Spotify)
   - Search for album/single covers and artits pfp on Spotify and download them.
