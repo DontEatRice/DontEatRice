@@ -1,7 +1,6 @@
 # <p align="center">👋 Hi, I’m @DontEatRice</p>
-- 👨‍🎓 I’m a computer science student in Warsaw, Poland
+- 👨‍🎓 I’m a .NET Core developer in Warsaw, Poland
 ## 🖼 My projects
-They are not perfect, because I'm still learning a lot of new things, but I decided to keep them to keep track of my progress.
 
 📝NOTE: Look at the dates!
 - [Bookmarks](https://github.com/DontEatRice/bookmarks "Bookmarks")
